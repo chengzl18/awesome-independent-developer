@@ -10,6 +10,7 @@
 
 #### 如何做好独立开发
 
+* Bootstrapping相比被VC投资的创业公司，是更好的选择。其中观点2024年依然不过时。[视频链接](https://www.youtube.com/watch?v=0CDXJ6bMkMY)
 * 无需融资，做一个AI独立开发者。[视频链接](https://www.bilibili.com/video/BV1gp421f7Qp)
 * 以全世界最成功的独立开发者之一Pieter Levels为例的分析总结。[原文链接](https://mp.weixin.qq.com/s/PSwC9ad3I73Fj59LpCW6YQ)
 
