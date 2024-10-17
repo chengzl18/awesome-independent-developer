@@ -20,11 +20,11 @@
 
 * 独立游戏：保姆级攻略教你用最低的成本成立一家公司。[视频链接](https://www.bilibili.com/video/BV1ev4y1u7vd)
 
-#### 优秀案例
+#### 人物
 
 持续独立开发
 * [Pieter Levels](https://x.com/levelsio)
-* [Baye](https://x.com/waylybaye)
+* [Baye](https://x.com/waylybaye)，[Viking](https://x.com/vikingmute)，[Larry](https://x.com/Larry_LiDev)
 
 一人独立游戏开发
 * 星露谷物语，作者Eric Barone
