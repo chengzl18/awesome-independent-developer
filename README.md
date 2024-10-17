@@ -6,11 +6,10 @@
 #### 为什么独立开发
 
 * 90%的人不适合独立开发，但10%的人活出了理想人生，在清华聊独立开发。 [视频链接](https://www.bilibili.com/video/BV1TS421R7w9)
-* YC教父Paul Gram关于学生创业的博客，其很多原则适用于独立开发者。毅力, 贫穷, 无根, 无知都是创业的优势。例如几乎所有创业公司的失败都是花光了钱，一旦你可以live cheaply，你有更多的机会从错误中恢复。[原文链接](https://www.paulgraham.com/mit.html)
+* YC教父Paul Gram关于学生创业的观点。其很多原则适用于独立开发者。毅力, 贫穷, 无根, 无知在Paul看来都是创业的优势。例如，几乎所有创业公司的失败都是花光了钱，如果你可以“live cheaply”，有更低的烧钱速度，就有更多的机会从错误中恢复过来。而犯错对于大多数一开始创业的人都是不可避免的。[原文链接](https://www.paulgraham.com/mit.html)
 * 独立开发第一要务永远都不是钱，而是自由。[原文链接](https://x.com/vikingmute/status/1687288711690797056)
 * Bootstrapping相比被VC投资的创业公司，是更好的选择。[视频链接](https://www.youtube.com/watch?v=0CDXJ6bMkMY)
 * 与其到处找孵化器，到处做presentation，不如多打磨产品，多听听潜在客户的意见。[讨论链接](https://www.1point3acres.com/bbs/thread-1086283-1-1.html)
-* 为什么年轻创业？
 
 #### 如何做好独立开发
 
@@ -18,6 +17,8 @@
   对于视频的分析总结文章。[原文链接](https://mp.weixin.qq.com/s/PSwC9ad3I73Fj59LpCW6YQ)
 * 无需融资，做一个AI独立开发者。[视频链接](https://www.bilibili.com/video/BV1gp421f7Qp)
 * 钉子比榔头更重要，奇迹创坛公开课。[原文链接](https://mp.weixin.qq.com/s/XWZuFRWNcrV81sBcczuVMg)
+* 对于初次创业，要做must have的产品。[视频链接](https://www.bilibili.com/video/BV17Z421E7tT)<br/>
+  独立开发者壹树的文章。[原文链接](https://mp.weixin.qq.com/s/IR_ESpnenrKRaK5dpdN5qA)
 
 #### 相关技能
 
