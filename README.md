@@ -9,7 +9,7 @@
 * YC教父Paul Gram关于学生创业的观点。其很多原则适用于独立开发者。毅力, 贫穷, 无根, 无知在Paul看来都是创业的优势。例如，几乎所有创业公司的失败都是花光了钱，如果你可以“live cheaply”，有更低的烧钱速度，就有更多的机会从错误中恢复过来。而犯错对于大多数一开始创业的人都是不可避免的。[原文链接](https://www.paulgraham.com/mit.html)
 * 独立开发第一要务永远都不是钱，而是自由。[原文链接](https://x.com/vikingmute/status/1687288711690797056)
 * Bootstrapping相比被VC投资的创业公司，是更好的选择。[视频链接](https://www.youtube.com/watch?v=0CDXJ6bMkMY)
-* 与其到处找孵化器，到处做presentation，不如多打磨产品，多听听潜在客户的意见。[讨论链接](https://www.1point3acres.com/bbs/thread-1086283-1-1.html)
+* 独自创业还是拉人创业？做presentation拉融资还是打磨产品？[讨论链接](https://www.1point3acres.com/bbs/thread-1086283-1-1.html)
 
 #### 如何做好独立开发
 
