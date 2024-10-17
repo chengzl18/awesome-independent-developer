@@ -15,9 +15,16 @@
 * 无需融资，做一个AI独立开发者。[视频链接](https://www.bilibili.com/video/BV1gp421f7Qp)
 * 以全世界最成功的独立开发者之一Pieter Levels为例的分析总结。[原文链接](https://mp.weixin.qq.com/s/PSwC9ad3I73Fj59LpCW6YQ)
 
-#### 独立开发相关技能
+#### 相关技能
 
 * 独立游戏：保姆级攻略教你用最低的成本成立一家公司。[视频链接](https://www.bilibili.com/video/BV1ev4y1u7vd)
+
+#### 优秀案例
+
+* Pieter Levels
+* [levelsio](https://x.com/levelsio)
+* [Baye](https://x.com/waylybaye)
+* Eric Barone，星露谷物语作者
 
 #### 相关资源
 
