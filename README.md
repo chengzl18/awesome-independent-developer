@@ -22,8 +22,7 @@
 #### 优秀案例
 
 持续独立开发
-* Pieter Levels
-* [levelsio](https://x.com/levelsio)
+* [Pieter Levels](https://x.com/levelsio)
 * [Baye](https://x.com/waylybaye)
 
 一人独立游戏开发
