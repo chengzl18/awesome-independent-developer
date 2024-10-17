@@ -21,10 +21,17 @@
 
 #### 优秀案例
 
+持续独立开发
 * Pieter Levels
 * [levelsio](https://x.com/levelsio)
 * [Baye](https://x.com/waylybaye)
-* Eric Barone，星露谷物语作者
+
+一人独立游戏开发
+* 星露谷物语，作者Eric Barone
+
+一人公司
+* Wargraphs，创始人Jean-Nicholas Mastin
+* BuiltWith，创始人Gary Brewer
 
 #### 相关资源
 
