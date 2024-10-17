@@ -9,3 +9,5 @@
 * 独立开发第一要务永远都不是钱，而是自由。[原文链接](https://x.com/vikingmute/status/1687288711690797056)
 
 #### 如何做好独立开发
+
+* 以全世界最成功的独立开发者之一Pieter Levels为例的分析总结。[原文链接](https://mp.weixin.qq.com/s/PSwC9ad3I73Fj59LpCW6YQ)
