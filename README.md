@@ -1,20 +1,23 @@
 # 独立开发者读物
 
-独立开发者相当于独自创业，这不是社会主流，我们很难被动地学习到有益于独立开发的知识和观点。本仓库收录一些独立开发相关的杂文，包括AI独立开发、独立游戏开发、独立创业等，希望对于走上独立开发之路的人有所帮助。持续更新中。
+独立开发者相当于独自创业，这不是社会主流，我们很难被动地学习到有益于独立开发的知识和观点。本仓库收录一些独立开发相关的杂文，包括独立创业、AI独立开发、独立游戏开发等，希望对于走上独立开发之路的人有所帮助。持续更新中。
 
 
 #### 为什么独立开发
 
 * 90%的人不适合独立开发，但10%的人活出了理想人生，在清华聊独立开发。 [视频链接](https://www.bilibili.com/video/BV1TS421R7w9)
+* YC教父Paul Gram关于学生创业的博客，其很多原则适用于独立开发者。毅力, 贫穷, 无根, 无知都是创业的优势。例如几乎所有创业公司的失败都是花光了钱，一旦你可以live cheaply，你有更多的机会从错误中恢复。[原文链接](https://www.paulgraham.com/mit.html)
 * 独立开发第一要务永远都不是钱，而是自由。[原文链接](https://x.com/vikingmute/status/1687288711690797056)
 * Bootstrapping相比被VC投资的创业公司，是更好的选择。[视频链接](https://www.youtube.com/watch?v=0CDXJ6bMkMY)
 * 与其到处找孵化器，到处做presentation，不如多打磨产品，多听听潜在客户的意见。[讨论链接](https://www.1point3acres.com/bbs/thread-1086283-1-1.html)
+* 为什么年轻创业？
 
 #### 如何做好独立开发
 
 * 访谈全世界最成功的独立开发者之一Pieter Levels。[视频链接](https://www.youtube.com/watch?v=oFtjKbXKqbg)<br/>
   对于视频的分析总结文章。[原文链接](https://mp.weixin.qq.com/s/PSwC9ad3I73Fj59LpCW6YQ)
 * 无需融资，做一个AI独立开发者。[视频链接](https://www.bilibili.com/video/BV1gp421f7Qp)
+* 钉子比榔头更重要，奇迹创坛公开课。[原文链接](https://mp.weixin.qq.com/s/XWZuFRWNcrV81sBcczuVMg)
 
 #### 相关技能
 
